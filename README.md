@@ -8,4 +8,4 @@ Fall 2019 Quarter
 
 Dr. Patrick Tantalo
 
-Notes recorded by Benjamin Sihota <bsihota@ucsc.edu>
+Notes recorded by Benjamin Sihota <bsihota [at] ucsc [dot] edu>
